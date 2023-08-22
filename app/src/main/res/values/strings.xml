@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">CookieClicker</string>
+    <string name="onboarding">You have a unique chance to test your logic and intuition, and maybe your knowledge! Choose a match and try to guess the outcome. If you can\'t choose a match by yourself, our great random function does it for you!</string>
+    <string name="chef">Chef</string>
+    <string name="level_5_1_095_sec">Level 5 1.095/sec</string>
+    <string name="_1_204_for_186_453_cookie">1.204 for 186.453 Cookie</string>
+    <string name="onfectioner">Сonfectioner</string>
+    <string name="baker">Baker</string>
+    <string name="_621_397_cookie">621.397 Cookie</string>
+    <string name="_4_142_sec">4.142/sec</string>
+    <string name="tap_power">TAP POWER</string>
+    <string name="my_bakery">MY BAKERY</string>
+    <string name="_3_881_for_3_718_cookie">3.881 for 3.718 Cookie</string>
+    <string name="_0_cookie">0 Cookie</string>
+    <string name="_0_sec">0/sec</string>
 </resources>
